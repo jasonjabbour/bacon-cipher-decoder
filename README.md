@@ -11,7 +11,7 @@ bacon_cipher.decode(message,upperCase)
 
 ### Background
 
-Bacon's Cipher is as steganography technique to hide messages in plain text. The plain text is identified into two font types. It is common to make the distinction between font types through bolding letters or capitalizing letters.
+Bacon's Cipher is as steganography technique used to hide messages in plain text. The plain text is identified into two font types. It is common to make the distinction between font types through bolding letters or capitalizing letters.
 
 ### Documentation 
 
