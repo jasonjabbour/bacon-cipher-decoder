@@ -1,4 +1,4 @@
-# Bacon Cipher Decode
+# Bacon Cipher Decoder
 
 ## Usage
 
